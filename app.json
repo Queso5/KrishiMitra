@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "KrishiMitra",
+    "slug": "KrishiMitra",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/krishimitra_logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/krishimitra_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "plugins": [
+        "@react-native-firebase/app",
+        "@react-native-firebase/auth"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/krishimitra_logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.tejas05.KrishMitra",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDBjUQfE7i0TG8BNFksnCMyGwsAqLET_-A"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a8216790-093d-450f-bd2d-df1bc6d07268"
+      }
+    }
+  }
+}
