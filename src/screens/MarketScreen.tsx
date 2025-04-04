@@ -26,7 +26,7 @@ const categoryIcons: Record<string, any> = {
   grains: require("../logo_asset/grains.png"),
   cashcrops: require("../logo_asset/cashcrops.png"),
   "fertilizers and seeds": require("../logo_asset/fertilizers_seeds.png"), // Handle spaces
-  "soil testing labs": require("../logo_asset/soil_lab.png"), // Handle spaces
+  "soil testing labs": require("../logo_asset/warehouse.png"), // Updated to warehouse.png
 };
 
 // ✅ Shop Data Type
