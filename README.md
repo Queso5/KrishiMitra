@@ -48,6 +48,23 @@ KrishiMitra is a feature-rich mobile application designed to empower farmers and
    ```bash
    npm install -g expo-cli
 
+## Installatoin 
+## 📦 Installation
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Queso5/krishimitra.git
+   cd krishimitra
+   npm install
+
+## ▶️ Usage
+
+1. **Start the Expo development server**:
+
+   ```bash
+   npm start
+
 ## 🧪 Testing
 
 To run tests:
