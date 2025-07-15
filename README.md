@@ -2,7 +2,7 @@
 
 _Empowering Agriculture Through Innovation and Connection_
 
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/krishimitra?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Queso5/krishimitra?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-97%25-blue?style=flat-square)
 ![Languages](https://img.shields.io/github/languages/count/yourusername/krishimitra?style=flat-square)
 
