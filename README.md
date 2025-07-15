@@ -42,7 +42,11 @@ KrishiMitra is a feature-rich mobile application designed to empower farmers and
 - **Community & Marketplace**: Real-time chat, community management, and buying/selling features to foster local engagement.
 - **Robust Build & Deployment**: Automated pipelines for Expo EAS builds, ensuring smooth development and release cycles.
 
----
+## Prerequisites
+1. **Node.js** (v16 or above) – [Download here](https://nodejs.org/)
+2. **Expo CLI** installed globally:
+   ```bash
+   npm install -g expo-cli
 
 ## 🧪 Testing
 
